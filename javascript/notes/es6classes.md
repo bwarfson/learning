@@ -1,3 +1,6 @@
+[Link to Article](https://medium.com/@luke_smaki/javascript-es6-classes-8a34b0a6720a)
+
+```javascript
 //before ES6
 const user1 = {
     name: "jeff",
@@ -79,6 +82,6 @@ UserClass.staticMethod(); //works
 mark.name = "Jim";
 console.log(mark.name); // outputs Jim
 console.log(sara.role); // outputs Admin
-
+```
 
 
