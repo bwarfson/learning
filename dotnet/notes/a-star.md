@@ -1,0 +1,1 @@
+[A-STAR Pathfinding AI for HTML5 Canvas Games](http://buildnewgames.com/astar/)
